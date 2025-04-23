@@ -1,0 +1,4 @@
+id,seek,start,end,text,tokens,temperature,avg_logprob,compression_ratio,no_speech_prob
+0,0,0.0,7.0, AI is the backbone of innovation in modern computing and knocking value for individuals and businesses.,"[50364, 7318, 307, 264, 34889, 295, 8504, 294, 4363, 15866, 293, 24085, 2158, 337, 5346, 293, 6011, 13, 50714]",0.0,-0.22535080909729005,1.4901960784313726,0.0792025700211525
+1,0,7.0,16.0," For example, optical character recognition, OCR uses AI to extract text and data from images and documents.","[50714, 1171, 1365, 11, 20674, 2517, 11150, 11, 422, 18547, 4960, 7318, 281, 8947, 2487, 293, 1412, 490, 5267, 293, 8512, 13, 51164]",0.0,-0.22535080909729005,1.4901960784313726,0.0792025700211525
+2,0,16.0,23.0, Turns unstructured content into business ready structure data and unlocks valuable insights.,"[51164, 29524, 18799, 46847, 2701, 666, 1606, 1919, 3877, 1412, 293, 517, 34896, 8263, 14310, 13, 51514]",0.0,-0.22535080909729005,1.4901960784313726,0.0792025700211525
